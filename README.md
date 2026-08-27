@@ -1155,3 +1155,10 @@ Save/load, database, multiplayer, and procedural maps were considered
 and rejected when they did not strengthen the project's core objective.
 
 ------------------------------------------------------------------------
+---
+
+## Author
+
+**Vinay Shukla**
+
+MSc (CA) — Computer Applications
